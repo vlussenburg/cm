@@ -4,6 +4,7 @@
 manifest:
   version: 1.0
 
+
 automations:
 
   linearb_ai_description:
